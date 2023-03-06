@@ -1,0 +1,552 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+div{
+    background-color:#FF5F9E;
+    height:700px;
+    width:100%;
+    margin:0;
+}
+.name{
+    position:relative;
+    top:150px;
+    left:550px;
+    margin:0;
+    padding:0;
+
+}
+.main{
+    position:relative;
+    top:150px;
+    font-family:'Dosis', sans-serif;
+}
+.main2{
+    background-color:#FF5F9E;
+    height:300px;
+    width:100%;
+    margin:0;
+
+}
+.college_para{
+    position:relative;
+    text-align: center;
+    color:beige;
+    font-size: 1.5em;
+
+}
+.college{
+    background-color:#393053;
+    height:350px;
+    width:100%;
+    margin:0;
+}
+.Senior_Secondary{
+    background-color:#BFDCE5;
+    height:350px;
+    width:100%;
+    margin:0;
+}
+.school_pic{
+    width:500px;
+    position:relative;
+    top:100px;
+}
+.school_para{
+    position:relative;
+    text-align: center;
+    color:black;
+    font-size: 1.5em;
+
+}
+.college_name{
+    position:absolute;
+    top:350px;
+    left:350px;
+    color:beige;
+    font-family: 'Lato', sans-serif;
+}
+.school_name{
+    position:absolute;
+    top:750px;
+    left:550px;
+    color:black;
+    font-family: 'Lato', sans-serif;
+}
+.college_pic{
+    height:200px;
+    position:relative;
+    top:80px;
+    left:20px;
+}
+.education_pic{
+    position:relative;
+    top:100px;
+    left:650px;
+    margin:0;
+    padding:0;
+    width:200px;
+
+}
+.land{
+    position:relative;
+    top:215px;
+    left:500px;
+    height:350px;
+
+
+
+}
+.bitmoji{
+    position:relative;
+    height:80px;
+    left:300px;
+    top:10px;
+
+}
+.bitmoji_2{
+    position:relative;
+    height:100px;
+    top:350px;
+    left:160px;
+
+
+}
+.hi{
+    color:#FF5F9E;
+    position:relative;
+    top:350px;
+
+}
+.paragraph{
+    position:relative;
+    top:350px;
+    font-family: 'Crimson Text', serif;
+    font-size:1.2em;
+
+}
+.Matriculate{
+    background-color:#3A98B9;
+    height:350px;
+    width:100%;
+    margin:0;
+
+}
+.school2_pic{
+    width:500px;
+    position:relative;
+    top:100px;
+
+}
+.school2_para{
+    position:relative;
+    text-align: center;
+    color:black;
+    font-size: 1.5em;
+}
+.school2_name{
+    position:absolute;
+    top:1100px;
+    left:550px;
+    color:black;
+    font-family: 'Lato', sans-serif;
+}
+.education_link{
+    position:absolute;
+    left:1000px;
+    top:50px;
+    font-size:1.2em;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.project_main{
+        background-color:#FF5F9E;
+        height:300px;
+        width:100%;
+        margin:0;
+}
+.project_pic{
+    position:relative;
+    top:100px;
+    left:650px;
+    margin:0;
+    padding:0;
+    width:200px;
+
+}
+.heart_pic{
+    width:200px;
+    position:relative;
+    top:100px;
+    height:200px;
+    left:20px;
+
+}
+.heart_para{
+    position:relative;
+    text-align: center;
+    color:beige;
+    font-size: 1.5em;
+}
+.heart_name{
+    position:absolute;
+    top:400px;
+    left:600px;
+    color:beige;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:1.8em;
+}
+.HeartdiseasePrediction{
+    background-color:#393053;
+    height:350px;
+    width:100%;
+    margin:0;
+
+}
+.smsspam{
+    background-color:#BFDCE5;
+    height:350px;
+    width:100%;
+    margin:0;
+}
+.sms_pic{
+    width:300px;
+    position:relative;
+    top:100px;
+    height:200px;
+}
+.sms_para{
+    position:relative;
+    text-align: center;
+    color:black;
+    font-size: 1.5em;
+
+}
+.sms_name{
+    position:absolute;
+    top:750px;
+    left:650px;
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:1.8em;
+}
+.face_detection{
+    background-color:#3A98B9;
+    height:350px;
+    width:100%;
+    margin:0;
+
+}
+.face_pic{
+    width:300px;
+    position:relative;
+    top:100px;
+    height:200px;
+
+
+}
+.face_para{
+    position:relative;
+    text-align: center;
+    color:black;
+    font-size: 1.5em;
+    left:40px;
+}
+.face_name{
+    position:absolute;
+    top:1100px;
+    left:700px;
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:1.8em;
+}
+.human{
+    background-color:#609966;
+    height:350px;
+    width:100%;
+    margin:0;
+
+}
+.human_pic{
+    width:300px;
+    position:relative;
+    top:100px;
+    height:200px;
+    left:20px;
+
+
+}
+.human_para{
+    position:relative;
+    text-align: center;
+    color:black;
+    font-size: 1.5em;
+    left:40px;
+}
+.human_name{
+    position:absolute;
+    top:1450px;
+    left:650px;
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:1.8em;
+}
+.stack{
+    background-color:#FFC7C7;
+    height:350px;
+    width:100%;
+    margin:0;
+
+}
+.stack_pic{
+    width:300px;
+    position:relative;
+    top:100px;
+    height:200px;
+    left:20px;
+
+
+}
+.stack_para{
+    position:relative;
+    text-align: center;
+    color:black;
+    font-size: 1.5em;
+    left:110px;
+}
+.stack_name{
+    position:absolute;
+    top:1800px;
+    left:650px;
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:1.8em;
+}
+.project_link{
+    position:absolute;
+    left:1120px;
+    top:50px;
+    font-size:1.2em;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.bitmoji_3{
+    position:relative;
+    height:100px;
+    top:350px;
+    left:700px;
+    
+}
+.skills{
+    color:#FF5F9E;
+    position:relative;
+    top:350px;
+}
+.skill_table{
+    position:relative;
+    top:350px;
+    left:600px;
+    font-size: 1.0em;
+    column-gap: 100px;
+    font-family:Crimson Text', serif;
+
+}
+.certificate_main{
+    background-color:#FF5F9E;
+    height:300px;
+    width:100%;
+    margin:0;
+
+}
+.certificate_pic{
+    position:relative;
+    top:100px;
+    left:650px;
+    margin:0;
+    padding:0;
+    width:200px;
+}
+.internship{
+    background-color:#393053;
+    height:400px;
+    width:100%;
+    margin:0;
+
+}
+.internship_pic{
+    width:300px;
+    position:relative;
+    top:90px;
+    height:300px;
+    left:600px;
+
+
+}
+.internship_name{
+    position:absolute;
+    top:320px;
+    left:350px;
+    color:beige;
+    font-family: 'Lato', sans-serif;
+}
+.sih{
+    background-color:#3A98B9;
+    height:400px;
+    width:100%;
+    margin:0;
+
+}
+.sih_pic{
+    width:300px;
+    position:relative;
+    top:90px;
+    height:300px;
+    left:600px;
+
+
+}
+.sih_name{
+    position:absolute;
+    top:720px;
+    left:550px;
+    color:black;
+    font-family: 'Lato', sans-serif;
+}
+.ai{
+    background-color:#E7AB9A;
+    height:400px;
+    width:100%;
+    margin:0;
+
+}
+.ai_pic{
+    width:300px;
+    position:relative;
+    top:90px;
+    height:300px;
+    left:600px;
+
+
+}
+.ai_name{
+    position:absolute;
+    top:1120px;
+    left:550px;
+    color:black;
+    font-family: 'Lato', sans-serif;
+}
+.cpc{
+    background-color:#0E8388;
+    height:400px;
+    width:100%;
+    margin:0;
+
+}
+.cpc_pic{
+    width:300px;
+    position:relative;
+    top:90px;
+    height:300px;
+    left:600px;
+
+
+}
+.cpc_name{
+    position:absolute;
+    top:1520px;
+    left:550px;
+    color:black;
+    font-family: 'Lato', sans-serif;
+}
+.national{
+    background-color:#D6E4E5;
+    height:400px;
+    width:100%;
+    margin:0;
+
+}
+.national_pic{
+    width:300px;
+    position:relative;
+    top:90px;
+    height:300px;
+    left:600px;
+
+
+}
+.national_name{
+    position:absolute;
+    top:1920px;
+    left:580px;
+    color:black;
+    font-family: 'Lato', sans-serif;
+}
+.certificate_link{
+    position:absolute;
+    left:1230px;
+    top:50px;
+    font-size:1.2em;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.message{
+    background-color: #FF5F9E;
+    font-size: 1.5em;
+    text-align: center;
+    display: block;
+    position:relative;
+    top:400px;
+    height:40px;
+    width:15%;
+    color:black;
+    text-decoration: none;
+    margin:0px 0px 0px 650px;
+}
+.contact{
+    position:relative;
+    height:180px;
+    color:#E7AB9A;
+    top:480px;
+}
+.linkedin{
+    position:relative;
+    top:20px;
+    left:600px;
+    font-size:1.1em;
+    color:black;
+    text-decoration: none;
+
+}
+.Github{
+    position:relative;
+    top:20px;
+    left:800px;
+    font-size:1.1em;
+    color:black;
+    text-decoration: none;
+
+}
+.call{
+        position:relative;
+        top:10px;
+        left:700px;
+        font-size:1.1em;
+        color:black;
+        text-decoration: none;
+    
+}
+.mail{
+    position:relative;
+    top:30px;
+    left:670px;
+    font-size:1.1em;
+    color:black;
+    text-decoration: none;
+    
+}
